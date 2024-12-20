@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/claucker_misa_sagi/mom_hair1_base"
+	"$alpha" 0
+	//"$bumpmap" "models/claucker_misa_sagi/mom_hair1_nrm"
+	//"$envmapmask" "models/claucker_misa_sagi/mom_hair1_spec"
+	
+	//"$nodecal" 1 
+}

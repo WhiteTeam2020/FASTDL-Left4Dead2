@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_pajamei_ow/Mei_Hair"
+	"$bumpmap" "models/claucker_pajamei_ow/Mei_Hair_Normal"
+	$phongexponenttexture "models/claucker_pajamei_ow/Mei_Hair_Light"
+	"$phongwarptexture" 
+	"$ambientocclusion" "0"
+	"$translucent" "1"
+	$allowalphatocoverage 1
+	$nodecal 1
+	"$phong" "1"
+	$phongexponent 12
+	"$phongboost"	"0.1"
+	"$phongalbedotint" 1
+	$phongfresnelranges "[.1 1 1]"
+}

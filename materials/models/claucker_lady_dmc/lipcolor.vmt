@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_lady_dmc/Lipcolor"
+	"$translucent" 1
+	
+	"$nodecal" 1 
+}

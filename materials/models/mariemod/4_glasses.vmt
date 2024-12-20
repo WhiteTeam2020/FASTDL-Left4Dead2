@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mariemod/glasses_base"
+	"$bumpmap" "models/mariemod/glasses_nrm"
+
+	"$translucent" "1"
+	"$nodecal" 1
+	 
+}

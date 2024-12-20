@@ -1,0 +1,10 @@
+patch
+{
+	include "materials/models/survivors/survivors_it_shared.vmt"
+	insert
+{
+	"$basetexture" "models/claucker_and_innerquiet_claire/pl2200_24pants_BM"
+	//$translucent 1
+	//$nocull 1
+}
+}

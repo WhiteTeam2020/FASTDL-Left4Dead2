@@ -1,0 +1,11 @@
+patch
+{
+	include "materials/models/survivors/survivors_it_shared.vmt"
+	
+	insert
+	{
+		"$basetexture" "models/claucker_lady_dmc/Boots_diff"
+	}
+	
+	"$nodecal" 1 
+}

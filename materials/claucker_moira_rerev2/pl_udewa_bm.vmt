@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "claucker/claucker_moira_rerev2/pl_udewa_BM"
+	$normalmapalphaenvmapmask 1
+}

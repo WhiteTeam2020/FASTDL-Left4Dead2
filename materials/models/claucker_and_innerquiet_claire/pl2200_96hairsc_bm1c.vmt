@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+
+	"$basetexture" "models/claucker_and_innerquiet_claire/pl2200_96hairsc_bm"
+	"$bumpmap" "models/claucker_and_innerquiet_claire/pl2200_96hairsc_nm"
+$phongexponenttexture "models/claucker_and_innerquiet_claire/pl2200_96hairsc_mm"
+"$phongwarptexture" "models/claucker_and_innerquiet_claire/phongwarp_hair"
+	$alphatest	1
+	$AlphaTestReference "0.9"
+	$allowalphatocoverage 1
+	$nodecal 1
+	"$ambientocclusion" "0"
+"$lightwarptexture" "models/claucker_and_innerquiet_claire/alisa_head_wrp"
+}
+

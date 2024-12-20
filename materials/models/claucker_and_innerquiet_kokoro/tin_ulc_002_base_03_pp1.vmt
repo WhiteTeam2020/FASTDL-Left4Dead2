@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_and_innerquiet_kokoro/tin_ulc_002_base_03_PP1"
+	"$bumpmap" "models/claucker_and_innerquiet_kokoro/tin_ulc_002_nrm_03_N"
+
+	"$nodecal" 1 
+}

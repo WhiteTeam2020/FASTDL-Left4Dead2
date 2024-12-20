@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/claucker_pajamei_ow/Mei_Glasses"
+	"$bumpmap"	"models/claucker_pajamei_ow/Mei_Glasses_Normal"
+	$translucent	1
+	$nocull 1
+}
+

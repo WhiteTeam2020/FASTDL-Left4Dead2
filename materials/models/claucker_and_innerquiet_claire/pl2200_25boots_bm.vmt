@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_and_innerquiet_claire/pl2200_25boots_BM"
+	"$bumpmap" "models/claucker_and_innerquiet_claire/pl2200_25boots_NM"
+	"$normalmapalphaenvmapmask" 1
+	//"$envmap" "env_cubemap"
+	//"$envmapmask" "models/claucker_and_innerquiet_claire/pl2200_25boots_MM"
+	//"$envmapcontrast" 1
+	"$model" 1
+	//"$selfillum" 1
+}

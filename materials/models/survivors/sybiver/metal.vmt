@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 					"models\survivors\sybiver\Body"
+	"$bumpmap" 						"dev\flat_normal"
+		
+	$color2								"[.69 .69 .69]"
+	
+	$envmap								env_cubemap
+	$envmaptint						"[.1 .1 .1]"
+	$normalmapalphaenvmapmask	1
+	$envmapfresnel					1
+	
+	"$nodecal" 							"1"
+	
+	"$halflambert" 					"1"
+
+	"$Phong"				    			"1"
+	"$PhongBoost"               		"4"
+	"$Phongexponent"               "6"
+	"$PhongExponentTexture" 	"dev/reflectivity_50b"
+	"$PhongFresnelRanges"	    "[4 1 9]"
+	"$PhongAlbedoTint"          	"1"
+}

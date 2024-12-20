@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$phong" 1
+	"$basetexture" "models/claucker_pajamei_ow/Mei_Eye"
+	"$bumpmap" "models/claucker_pajamei_ow/Mei_Eyes_Normal"
+	$translucent 1
+}

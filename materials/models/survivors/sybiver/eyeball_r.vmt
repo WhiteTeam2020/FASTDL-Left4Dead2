@@ -1,0 +1,18 @@
+"EyeRefract"
+{
+	"$Iris"               			"models\survivors\sybiver\eye"
+	$AmbientOcclTexture 	"vgui/white" 
+	$Envmap 						"Engine/eye-reflection-cubemap-" 
+	$CorneaTexture 			"dev/flat_normal" 
+	"$nodecal" "1"
+	$glossiness	0
+	"$parallaxStrength" "0"
+   	"$dilation" "0.4"
+	"$AmbientOcclColor" "[0.1 0.1 0.1]"
+	"$corneaBumpStrength" "0"
+	
+	"$raytraceSphere" "0"
+	"$sphereTexkillCombo" "0"
+	$halflambert 1
+}
+

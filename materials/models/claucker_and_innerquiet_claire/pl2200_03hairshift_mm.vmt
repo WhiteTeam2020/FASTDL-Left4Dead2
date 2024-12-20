@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_and_innerquiet_claire/pl2200_03hairShift_MM"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+	//"$translucent" 1
+}

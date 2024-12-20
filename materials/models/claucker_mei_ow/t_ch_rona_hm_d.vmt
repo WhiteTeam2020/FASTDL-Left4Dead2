@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_mei_ow/T_CH_RONA_HM_D"
+	"$bumpmap" "models/claucker_mei_ow/T_CH_RONA_HM_N"
+	$envmapmask		"models/claucker_mei_ow/T_CH_RONA_HM_M"
+}

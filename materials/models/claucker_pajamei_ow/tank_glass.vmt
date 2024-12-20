@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	//"$basetexture" "models/claucker_pajamei_ow/000000004FFD"
+	"$basetexture" "models/claucker_pajamei_ow/Tank"
+	"$normalmapalphaenvmapmask" 1
+	$translucent 1
+	$nocull 1
+}

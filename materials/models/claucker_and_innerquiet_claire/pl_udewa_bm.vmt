@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_and_innerquiet_claire/pl_udewa_BM"
+	"$bumpmap" "models/claucker_and_innerquiet_claire/pl_udewa_NullNM"
+    "$normalmapalphaenvmapmask" 1
+	//"$basealphaenvmapmask" 1
+	//"$model" 1
+	//"$selfillum" 1
+    //"$selfillummask" "models/claucker_and_innerquiet_claire/pl_udewa_Light"
+}

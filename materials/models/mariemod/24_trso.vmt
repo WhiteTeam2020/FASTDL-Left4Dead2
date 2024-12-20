@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mariemod/Metal_D"
+	//"$bumpmap" "models/mariemod/body_nrm"
+	//"$envmapmask" "models/mariemod/body_spec"
+	
+}

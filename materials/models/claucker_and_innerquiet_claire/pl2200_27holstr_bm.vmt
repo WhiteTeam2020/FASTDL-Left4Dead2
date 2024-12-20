@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_and_innerquiet_claire/pl2200_27Holstr_BM"
+	"$bumpmap" "models/claucker_and_innerquiet_claire/pl2200_27Holstr_NM"
+	"$normalmapalphaenvmapmask" 1
+	//"$envmapmask" "models/claucker_and_innerquiet_claire/pl2200_27Holstr_MM"
+	"$envmapcontrast" 1
+	"$model" 1
+}

@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/claucker_misa_sagi/9047280"
+	"$bumpmap" "models/claucker_misa_sagi/9047280_n"
+	"$envmapmask" "models/claucker_misa_sagi/hair_refl"
+	
+	"$ambientocclusion" "0"
+	"$translucent" "1"
+	"$allowalphatocoverage" "1"
+	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost"	"0.1"
+	"$phongalbedotint" "1"
+	$phongfresnelranges "[.1 1 1]"
+	
+	"$nodecal" 1 
+}

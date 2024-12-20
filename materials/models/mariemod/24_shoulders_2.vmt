@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	//"$basetexture" "models/mariemod/Shirt_Black_D"
+	//"$bumpmap" "models/mariemod/Sailor_Black_S"
+	//"$envmapmask" "models/mariemod/Suit_S"
+	//"$normalmapalphaenvmapmask" "models/mariemod/env"
+	
+	//"$ambientocclusion" "1"
+	//"$translucent" "1"
+	//"$allowalphatocoverage" "0"
+	//"$phong" "1"
+	//"$phongexponent" "12"
+	//"$phongboost"	"0.1"
+	//"$phongalbedotint" "1"
+	//$phongfresnelranges "[.1 1 1]"
+	
+	//"$nodecal" 1 
+	
+}

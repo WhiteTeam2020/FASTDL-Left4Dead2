@@ -1,0 +1,29 @@
+"VertexLitGeneric"
+{
+	//"$basetexture" "models/claucker_moira_rerev2/pl2300_91eye_BM"
+	//"$bumpmap" "models/claucker_moira_rerev2/pl2300_92eyecov_NM"
+	$phong 1
+	$basetexture "models/claucker_moira_rerev2/pl2300_91eye_BM"
+	$bumpmap "models/claucker_moira_rerev2/pl2300_92eyecov_NM"
+
+	$phongexponenttexture "models/claucker_moira_rerev2/pl2300_92eyecov_NM"
+	"$phongwarptexture" "models/claucker_moira_rerev2/pl2300_91eye_BM"
+	//"$ambientocclusion" "0"
+	"$translucent" "1"
+	//$allowalphatocoverage 1
+	//$phongexponent 12
+	//"$phongboost"	"0.1"
+	//"$phongalbedotint" 1
+	//$phongfresnelranges "[.1 1 1]"
+	//"$lightwarptexture" "models/claucker_moira_rerev2/pl2300_91eye_BM"
+	
+	"$AmbientOcclTexture" "models/claucker_moira_rerev2/pl2300_91eye_BM"
+	"$envmapmask"           "models/claucker_moira_rerev2/pl2300_91eye_BM"
+	"$lightwarptexture" "models/claucker_moira_rerev2/pl2300_91eye_BM"
+	"$AmbientOcclColor" "[0.33 0.33 0.33]"	// Default 0.33, 0.33, 0.33
+	"$Glossiness" "1"					// Glossiness of eye (1 is default, 0 is not glossy at all)
+	
+	"$halflambert" "1"
+	"$nodecal" "1"
+}
+	

@@ -1,0 +1,28 @@
+"EyeRefract"
+{
+	"$Iris"               "models/claucker_and_innerquiet_rona/iris" 		  // Iris color in RGB with cornea noise in A
+	"$Irisframe" "0"				// Frame for the iris texture, 0 being the default frame
+	"$AmbientOcclTexture" "models/claucker_and_innerquiet_rona/eye_ao2"				  // Ambient occlusion in RGB, A unused // default texture eyeball_l_ambient 
+	//"$Envmap"             "models/claucker_and_innerquiet_rona/cra0kalos_sexy_reflect"    // Reflection environment map static (cra0kalo's glint version)
+	//	Reflection environment map 
+	//"$envmap"	"env_cubemap"	
+	"$Envmap"           "models/claucker_and_innerquiet_rona/eye-reflection-cubemap-"    // Reflection environment map (valve's default glint)
+	"$CorneaTexture"      "models/claucker_and_innerquiet_rona/eye-cornea"                 // Special texture that has 2D cornea normal in RG and other data in BA
+"$lightwarptexture" "models/claucker_and_innerquiet_rona/eye_lightwarp"		// 1D ramp texture for tinting scalar diffuse term
+
+	"$EyeballRadius" "0.5"				// Default 0.5
+	"$AmbientOcclColor" "[0.36 0.25 0.2]"	// Default 0.33, 0.33, 0.33
+	"$Dilation" "0.7"					// Default 0.5
+	"$Glossiness" "1"					// Glossiness of eye (1 is default, 0 is not glossy at all)
+	"$ParallaxStrength" "0.30"          // Default 0.25
+	"$CorneaBumpStrength" "1.25"			// Default 1.0
+
+	"$halflambert" "1"
+	"$nodecal" "1"
+
+	// These effects are only available in ps.2.0b and later
+	"$RaytraceSphere" "0"				// Default 1 - Enables raytracing in the pixel shader to make the eyeball look round
+	"$SphereTexkillCombo" "0"			// Default 1 - Enables killing pixels that don't ray-intersect the sphere
+
+	
+}

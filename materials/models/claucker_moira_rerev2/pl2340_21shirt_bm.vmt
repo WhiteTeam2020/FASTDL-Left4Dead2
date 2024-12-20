@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_moira_rerev2/pl2340_21shirt_BM"
+	"$bumpmap" "models/claucker_moira_rerev2/pl2300_21shirt_NM"
+	"$alphatest" 1
+}

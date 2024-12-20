@@ -1,0 +1,8 @@
+patch
+{
+	include "materials/models/survivors/survivors_it_shared.vmt"
+	insert
+{
+	"$basetexture" "models/claucker_pajamei_ow/Mei_Hair"
+}
+}

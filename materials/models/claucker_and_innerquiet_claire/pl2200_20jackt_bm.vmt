@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_and_innerquiet_claire/pl2200_20jackt_BM"
+	"$bumpmap" "models/claucker_and_innerquiet_claire/pl2200_20jackt_NM"
+	"$phongexponent"			5
+	"$phongexponenttexture" "models/claucker_and_innerquiet_claire/pl2200_50jacket_Mask"
+	"$phongboost"				1.0
+	"$phongfresnelranges"		"[0 0.5 1]"
+	"$normalmapalphaenvmapmask" 1
+	//"$envmap" "env_cubemap"
+	//"$envmapmask" "models/claucker_and_innerquiet_claire/pl2200_20jackt_MM"
+	//"$envmapcontrast" 1
+	//"$selfillum" 1
+    //"$selfillummask" "models/claucker_and_innerquiet_claire/pl2200_50jacket_MVTF"
+}

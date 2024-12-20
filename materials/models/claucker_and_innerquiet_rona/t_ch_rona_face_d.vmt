@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$phong" 1
+	"$basetexture" "models/claucker_and_innerquiet_rona/T_CH_RONA_FACE_D"
+	"$bumpmap" "models/claucker_and_innerquiet_rona/T_CH_RONA_FACE_N"	
+	"$phongexponent"			5	
+	//"$phongexponenttexture" "models/claucker_and_innerquiet_rona/T_CH_RONA_FACE_M"
+	"$envmapmask" "models/claucker_and_innerquiet_rona/T_CH_RONA_FACE_M"
+	"$phongboost"				1.0
+	"$phongfresnelranges"		"[0 0.5 1]"
+	//"$normalmapalphaenvmapmask" 1
+}

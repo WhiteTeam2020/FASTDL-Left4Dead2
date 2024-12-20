@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_and_innerquiet_kokoro/Mileena_B_Diff"
+	"$bumpmap" "models/claucker_and_innerquiet_kokoro/Mileena_B_NormHQA"
+$phongexponenttexture "models/claucker_and_innerquiet_kokoro/Mileena_B_NormHQA"
+"$phongwarptexture" "models/claucker_and_innerquiet_kokoro/Mileena_B_Diff"
+	"$ambientocclusion" "0"
+	"$translucent" "1"
+	$allowalphatocoverage 1
+	$nodecal 1
+	"$phong" "1"
+	$phongexponent 12
+	"$phongboost"	"0.1"
+	"$phongalbedotint" 1
+	$phongfresnelranges "[.1 1 1]"
+
+	"$nodecal" 1 
+}

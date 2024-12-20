@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mariemod/Collar_D"
+	"$bumpmap" "models/mariemod/Collar_N"
+	//"$envmapmask" "models/mariemod/Collar_S"
+	"$nodecal" 1
+	
+}

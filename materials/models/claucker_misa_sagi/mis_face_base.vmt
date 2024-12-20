@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/claucker_misa_sagi/mis_face_base"
+	"$bumpmap" "models/claucker_misa_sagi/nyo face bump"
+	"$envmapmask" "models/claucker_misa_sagi/nyo face spec"
+	
+	"$nodecal" 1 
+}

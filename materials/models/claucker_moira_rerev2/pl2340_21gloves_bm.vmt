@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_moira_rerev2/pl2340_21gloves_BM"
+	"$bumpmap" "models/claucker_moira_rerev2/pl2340_21gloves_NM"
+	$normalmapalphaenvmapmask 1
+}

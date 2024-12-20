@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_lady_dmc/Boots_diff"
+	"$bumpmap" "models/claucker_lady_dmc/Boots_nrm"
+	"$envmapmask" "models/claucker_lady_dmc/Boots_spec"
+	
+	"$nodecal" 1 
+}

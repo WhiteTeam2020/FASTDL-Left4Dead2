@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_and_innerquiet_rona/T_CH_RONA_HM_D"
+	"$bumpmap" "models/claucker_and_innerquiet_rona/T_CH_RONA_HM_N"
+	"$normalmapalphaenvmapmask" 1
+}

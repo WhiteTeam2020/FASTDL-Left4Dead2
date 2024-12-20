@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/claucker_and_innerquiet_rona/T_UseSkill04"
+	"$normalmapalphaenvmapmask" 1
+	$envmapmask		"models/claucker_and_innerquiet_rona/Gradient_Digiter"
+	$selfillum 1
+	$selfillummask "models/claucker_and_innerquiet_rona/T_UseSkill02_001"
+	$translucent 1
+	$nocull 1
+}

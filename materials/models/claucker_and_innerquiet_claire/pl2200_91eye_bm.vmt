@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_and_innerquiet_claire/pl2200_91eye_BM"
+	"$bumpmap"				"models/claucker_and_innerquiet_claire/pl2200_91eye_NM"
+	//"$envmap" "env_cubemap"
+	//"$envmapmask" "models/claucker_and_innerquiet_claire/pl2200_91eye_MM"
+	//"$selfillum" 1
+    //"$selfillummask" "models/claucker_and_innerquiet_claire/pl2200_91eye_height_MM"
+	//"$model" 1
+	//"$ambientocclusion" 1
+	//"$alphatest" 1
+	//"$translucent" 1
+}

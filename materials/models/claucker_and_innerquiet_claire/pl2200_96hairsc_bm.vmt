@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+
+	"$basetexture" "models/claucker_and_innerquiet_claire/pl2200_96hairsc_bm"
+	"$bumpmap" "models/claucker_and_innerquiet_claire/pl2200_96hairsc_nm"
+$phongexponenttexture "models/claucker_and_innerquiet_claire/pl2200_96hairsc_mm"
+"$phongwarptexture" "models/claucker_and_innerquiet_claire/phongwarp_hair"
+	"$ambientocclusion" "0"
+	"$translucent" "1"
+	$allowalphatocoverage 1
+	$nodecal 1
+	"$phong" "1"
+	$phongexponent 12
+	"$phongboost"	"0.1"
+	"$phongalbedotint" 1
+	$phongfresnelranges "[.1 1 1]"
+"$lightwarptexture" "models/claucker_and_innerquiet_claire/alisa_head_wrp"
+}
+

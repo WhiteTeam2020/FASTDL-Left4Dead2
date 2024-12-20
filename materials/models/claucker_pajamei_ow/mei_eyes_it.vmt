@@ -1,0 +1,16 @@
+patch
+{
+
+include "materials/models/survivors/survivors_it_shared.vmt"
+insert
+{
+	"$phong" 1
+	"$basetexture" "models/claucker_pajamei_ow/Mei_Eye"
+	"$normalmapalphaenvmapmask" 1
+	$translucent 1
+	$nocull 1
+	$selfillum 1
+	$selfillummask "models/claucker_pajamei_ow/Mei_Eyes_Normal"
+	"$color" "{ 255.0 0.0 0.0 }"
+}
+}

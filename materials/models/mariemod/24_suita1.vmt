@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mariemod/Zipper_D"
+	"$bumpmap" "models/mariemod/Zipper_N"
+	//"$envmapmask" "models/mariemod/Zipper_S"
+	
+	"$ambientocclusion" "1"
+	"$translucent" "1"
+	"$allowalphatocoverage" "0"
+	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost"	"0.1"
+	"$phongalbedotint" "1"
+	$phongfresnelranges "[.1 1 1]"
+	
+	"$nodecal" 1 
+	
+}

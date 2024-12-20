@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_lady_dmc/Body2_diff"
+	
+	"$nodecal" 1 
+}

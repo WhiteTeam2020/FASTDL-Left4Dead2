@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/claucker_and_innerquiet_rona/T_CH_LENS_FONT"
+	$selfillum 1
+	$selfillummask "models/claucker_and_innerquiet_rona/T_CH_LENS_MASK_ACTION"
+	$translucent 1
+	$nocull 1
+}

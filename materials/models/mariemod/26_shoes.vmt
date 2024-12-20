@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mariemod/Heels_D"
+	"$bumpmap" "models/mariemod/Heels_N"
+	//"$envmapmask" "models/mariemod/Heels_S"
+
+	"$nodecal" "1"
+	
+}

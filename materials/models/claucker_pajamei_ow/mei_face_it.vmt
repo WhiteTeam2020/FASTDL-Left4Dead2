@@ -1,0 +1,14 @@
+patch
+{
+
+include "materials/models/survivors/survivors_it_shared.vmt"
+insert
+{
+
+	"$basetexture" "models/claucker_pajamei_ow/Mei_Body"
+$phong 1
+$phongboost ".6"
+$phongfresnelranges "[.07 .3 10]"
+$ambientocclusion 1
+}
+}

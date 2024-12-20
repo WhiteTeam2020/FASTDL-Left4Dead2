@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/claucker_and_innerquiet_rona/ch_rona_eyebrow_d"
+	"$nocull" 1
+	"$nodecal" 1
+	"$translucent" 1
+}

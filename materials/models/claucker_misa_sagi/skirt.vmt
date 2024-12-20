@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/claucker_misa_sagi/skirt"
+	"$bumpmap" "models/claucker_misa_sagi/DLC_TIN_102_02_nrm"
+	"$envmapmask" "models/claucker_misa_sagi/Lightmap"
+	
+	"$nodecal" 1
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	//"$surfaceprop"	"player"
+	"$basetexture" "models/claucker_and_innerquiet_rona/T_CH_RONA_ULB_D"
+	"$bumpmap" "models/claucker_and_innerquiet_rona/T_CH_RONA_ULB_N"
+	"$phongexponent"			5
+	"$phongexponenttexture" "models/claucker_and_innerquiet_rona/T_CH_RONA_ULB_D"
+	"$phongboost"				1.0
+	"$phongfresnelranges"		"[0 0.5 1]"
+	"$normalmapalphaenvmapmask" 1
+}

@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "claucker/claucker_moira_rerev2/pl2340_24pants_BM"
+	"$bumpmap" "claucker/claucker_moira_rerev2/pl2340_24pants_NM"
+	"$normalmapalphaenvmapmask" 1
+	"$ambientocclusion" "0"
+	"$alphatest" 1
+	$allowalphatocoverage 1
+	$nodecal 1
+	"$phong" "1"
+	$phongexponent 12
+	"$phongboost"	"0.1"
+	"$phongalbedotint" 1
+	$phongfresnelranges "[.1 1 1]"
+}

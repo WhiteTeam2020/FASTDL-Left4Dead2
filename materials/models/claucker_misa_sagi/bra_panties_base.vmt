@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/claucker_misa_sagi/bra_panties_base"
+	"$bumpmap" "models/claucker_misa_sagi/bra_panties_nrm"
+	"$envmapmask" "models/claucker_misa_sagi/hair_refl"
+	
+	"$nocull" 1
+	"$nodecal" 1
+}

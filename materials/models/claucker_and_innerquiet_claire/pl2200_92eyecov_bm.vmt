@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_and_innerquiet_claire/pl2200_92eyecov_BM"
+	//"$bumpmap"				"models/claucker_and_innerquiet_claire/pl2200_92eyecov_NM"
+	//"$envmap" "env_cubemap"
+	//"$envmapmask" "models/claucker_and_innerquiet_claire/pl2200_92eyecov_MM"
+	"$translucent" 1
+}

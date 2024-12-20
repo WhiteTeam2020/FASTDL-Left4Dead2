@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mariemod/mar_pony_base_PP5"
+	"$bumpmap" "models/mariemod/mar_pony_nrm"
+	//"$envmapmask" "models/mariemod/mar_pony_spe"
+	
+	"$ambientocclusion" "1"
+	"$translucent" "1"
+	"$allowalphatocoverage" "0"
+	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost"	"0.1"
+	"$phongalbedotint" "1"
+	$phongfresnelranges "[.1 1 1]"
+	
+	"$nodecal" 1 
+}

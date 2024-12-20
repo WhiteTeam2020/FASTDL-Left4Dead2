@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$phong" 1
+	"$basetexture" "models/claucker_and_innerquiet_kokoro/kok_body_base"
+	"$bumpmap" "models/claucker_and_innerquiet_kokoro/kok_body_nrm_VLH2_PP1"
+	"$phongexponent"			5
+	"$phongboost"				1.0
+	"$phongfresnelranges"		"[0 0.5 1]"
+	"$normalmapalphaenvmapmask" 1
+
+	"$nodecal" 1 
+}

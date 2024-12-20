@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_and_innerquiet_kokoro/kok_face_base"
+	"$bumpmap" "models/claucker_and_innerquiet_kokoro/kok_face_nrm_VLH2_PP1"
+
+	"$nodecal" 1 
+}

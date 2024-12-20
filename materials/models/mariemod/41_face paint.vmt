@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mariemod/face_paint_base"
+	"$bumpmap" "models/mariemod/face_paint_nrm"
+	//"$envmapmask" "models/mariemod/face_paint_spe"
+	
+	"$ambientocclusion" "0"
+	"$translucent" "1"
+	"$allowalphatocoverage" "1"
+	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost"	"0.1"
+	"$phongalbedotint" "1"
+	$phongfresnelranges "[.1 1 1]"
+	
+	"$nodecal" 1 
+	
+}

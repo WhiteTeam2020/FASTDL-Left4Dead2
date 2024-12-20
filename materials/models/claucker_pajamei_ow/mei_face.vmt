@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_pajamei_ow/Mei_Body"
+	//$envmapmask		"models/claucker_pajamei_ow/Mei_Face"
+}

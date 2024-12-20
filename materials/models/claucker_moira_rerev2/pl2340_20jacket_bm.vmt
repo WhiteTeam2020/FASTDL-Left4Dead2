@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_moira_rerev2/pl2340_20jacket_BM"
+	"$bumpmap" "models/claucker_moira_rerev2/pl2300_20jacket_NM"
+	"$phongexponent"			5
+	"$phongexponenttexture" "models/claucker_moira_rerev2/pl2340_20jacket_BM"
+	"$phongboost"				1.0
+	"$phongfresnelranges"		"[0 0.5 1]"
+	"$normalmapalphaenvmapmask" 1
+}

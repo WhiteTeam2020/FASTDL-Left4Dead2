@@ -1,0 +1,9 @@
+patch
+{
+	include "materials/models/survivors/survivors_it_shared.vmt"
+	insert
+{
+	"$basetexture" "models/claucker_pajamei_ow/SnowBall_Eyes"
+	"$color" "{ 255.0 0.0 0.0 }"
+}
+}

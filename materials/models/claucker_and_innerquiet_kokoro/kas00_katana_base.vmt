@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_and_innerquiet_kokoro/kas00_katana_base"
+
+	"$nodecal" 1 
+}

@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/claucker_misa_sagi/mom_dlcu_009_leather_base_PP1"
+	"$bumpmap" "models/claucker_misa_sagi/mom_dlcu_009_leather_nrm_N"
+	"$envmapmask" "models/claucker_misa_sagi/mom_dlcu_009_leather_spe_PP1"
+	
+	"$nodecal" 1 
+}

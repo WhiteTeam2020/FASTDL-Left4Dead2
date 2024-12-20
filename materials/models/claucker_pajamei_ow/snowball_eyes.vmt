@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_pajamei_ow/SnowBall_Eyes"
+	"$translucent" 1
+	"$nocull" 1
+}

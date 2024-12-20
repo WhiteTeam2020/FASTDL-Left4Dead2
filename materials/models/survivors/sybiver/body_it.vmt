@@ -1,0 +1,47 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 					"models\survivors\sybiver\Body"
+	"$bumpmap" 						"models\survivors\sybiver\bile_normal"
+	
+
+	
+	"$nodecal" 							"1"
+	
+	"$halflambert" 					"1"
+
+	"$Phong"				    			"1"
+	"$PhongBoost"               		".1"
+	"$Phongexponent"               "14"
+	"$PhongExponentTexture" 	"vgui/white"
+	"$PhongFresnelRanges"	    "[1 2 9]"
+	"$PhongAlbedoTint"          	"1"
+	
+	$bussin   15
+	
+	$detail "models\survivors\survivor_it"
+	$detailscale 1.75
+	$detailblendfactor ".001" 
+	$detailblendmode 0
+
+	$ITAmount 0
+	 
+
+	Proxies
+	{
+		IT
+		{
+		resultVar $ITAmount
+		}
+		Equals
+		{
+		srcVar1 $ITAmount
+		resultVar $detailblendfactor
+		}
+		Multiply
+		{
+		srcVar1	$bussin
+		srcVar2	$ITAmount
+		resultVar	$phongboost
+		}
+	}
+}

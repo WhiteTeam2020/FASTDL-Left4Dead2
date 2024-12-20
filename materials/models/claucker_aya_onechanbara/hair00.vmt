@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_aya_onechanbara/hair00"
+	$bumpmap "models/claucker_aya_onechanbara/hair00_nml"
+	"$ambientocclusion" "0"
+	"$alphatest" 1
+	$allowalphatocoverage 1
+	$nodecal 1
+	"$phong" "1"
+	$phongexponent 12
+	"$phongboost"	"0.1"
+	"$phongalbedotint" 1
+	$phongfresnelranges "[.1 1 1]"
+}
+
+

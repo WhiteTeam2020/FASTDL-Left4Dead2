@@ -1,0 +1,11 @@
+patch
+{
+	include "materials/models/survivors/survivors_it_shared.vmt"
+	
+	insert
+	{
+		"$basetexture" "models/claucker_misa_sagi/bra_panties_base"
+	}
+	
+	"$nodecal" 1 
+}

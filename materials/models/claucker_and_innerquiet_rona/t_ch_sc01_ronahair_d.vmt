@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+
+	"$basetexture" "models/claucker_and_innerquiet_rona/t_ch_sc01_ronahair_d"
+"$phongwarptexture" "models/claucker_and_innerquiet_rona/phongwarp_hair"
+	"$ambientocclusion" "0"
+	"$translucent" "1"
+	$allowalphatocoverage 1
+	$nodecal 1
+	"$phong" "1"
+	$phongexponent 12
+	"$phongboost"	"0.1"
+	"$phongalbedotint" 1
+	$phongfresnelranges "[.1 1 1]"
+}
+

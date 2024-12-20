@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_and_innerquiet_kokoro/lace"
+	"$translucent" 1
+
+	"$nodecal" 1 
+}

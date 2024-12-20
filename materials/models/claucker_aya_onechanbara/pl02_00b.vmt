@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/claucker_aya_onechanbara/pl02_00B"
+	"$bumpmap" "models/claucker_aya_onechanbara/pl02_00B_nml"
+	"$normalmapalphaenvmapmask" 1
+}

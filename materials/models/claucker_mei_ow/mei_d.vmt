@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$phong" 1
+	"$basetexture" "models/claucker_mei_ow/Mei_D"
+	"$bumpmap" "models/claucker_mei_ow/Mei_NS"
+	"$phongexponent"			5	
+	"$phongboost"				1.0
+	"$phongfresnelranges"		"[0 0.5 1]"
+	"$normalmapalphaenvmapmask" 1
+}

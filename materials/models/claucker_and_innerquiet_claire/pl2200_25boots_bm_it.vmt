@@ -1,0 +1,8 @@
+patch
+{
+	include "materials/models/survivors/survivors_it_shared.vmt"
+	insert
+{
+	"$basetexture" "models/claucker_and_innerquiet_claire/pl2200_25boots_BM"
+}
+}

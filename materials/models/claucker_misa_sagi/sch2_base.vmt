@@ -1,0 +1,104 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/claucker_misa_sagi/shirt_GIF"
+	"$bumpmap" "models/claucker_misa_sagi/sch2_nrm"
+	"$envmapmask" "models/claucker_misa_sagi/sch2_spec"
+	
+	"$nocull" 1
+	"$nodecal" 1
+	
+	// 0 1 2 3
+	
+	"$lastframe"		"3"
+	"$howmanytimesbeforeupdate"	"0"
+	
+	"$counter"			"0"
+	"$nextstep"			"0"
+	
+	"$zero"				"0"
+	"$one"				"1"
+	
+	"$boomerbiled"		"0"
+	"$canchange"		"1"
+	"$update"		"0"	
+	
+	"$frame"			"0"
+	"$nextframe"		"0"
+	
+	"Proxies"
+	{
+//UpdateCoreVariables () {
+		"IT"
+		{
+			resultVar		"$boomerbiled"
+		}
+		
+		"Add"
+		{
+			srcVar1			"$frame"
+			srcVar2			"$one"
+			resultVar		"$nextframe"
+		}
+		
+		"Add"
+		{
+			srcVar1			"$counter"
+			srcVar2			"$one"
+			resultVar		"$nextstep"
+		}
+//}
+		"Multiply"
+		{
+			srcVar1			"$boomerbiled"
+			srcVar2			"$canchange"
+			resultVar		"$update"
+		}
+		
+		"LessOrEqual"
+      	{
+			srcVar1			"$update"	//if ( boomerbiled && canchange )
+			srcVar2			"$zero"
+			resultVar		"$counter"
+			greaterVar 		"$nextstep"		//counter++;
+			LessEqualVar		"$counter"
+		}
+		
+		"LessOrEqual"
+      	{
+			srcVar1			"$counter"
+			srcVar2			"$howmanytimesbeforeupdate"
+			resultVar		"$frame"
+			greaterVar 		"$nextframe"
+			LessEqualVar		"$frame"
+		}
+		
+		"LessOrEqual"
+      	{
+			srcVar1			"$counter"
+			srcVar2			"$howmanytimesbeforeupdate"
+			resultVar		"$counter"
+			greaterVar 		"$zero"
+			LessEqualVar		"$counter"
+		}
+		
+		"LessOrEqual"
+      	{
+			srcVar1			"$boomerbiled"
+			srcVar2			"$zero"
+			resultVar		"$canchange"
+			greaterVar 		"$zero"
+			LessEqualVar		"$one"
+		}
+		
+		"LessOrEqual"
+      	{
+			srcVar1			"$frame"
+			srcVar2			"$lastframe"
+			resultVar		"$alpha"
+			greaterVar 		"$zero"
+			LessEqualVar		"$one"
+		}
+	}
+	
+	"$alphatest" "1"
+}

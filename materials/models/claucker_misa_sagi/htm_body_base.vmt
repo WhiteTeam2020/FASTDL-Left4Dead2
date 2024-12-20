@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/claucker_misa_sagi/htm_body_base"
+	"$bumpmap" "models/claucker_misa_sagi/htm_body_nrm_VLH2_PP1"
+	"$envmapmask" "models/claucker_misa_sagi/htm_body_spe"
+	
+	"$nodecal" 1 
+}

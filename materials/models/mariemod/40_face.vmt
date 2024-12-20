@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	
+	"$basetexture" "models/mariemod/face_base"
+	"$bumpmap" "models/mariemod/face_base_nrm"
+	//"$envmapmask" "models/mariemod/face_base_spec"
+	
+}
